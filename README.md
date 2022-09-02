@@ -9,7 +9,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m currently studying Btech. in Civil Engineering from NIT Hamirpur.
 - 🌱 I'm a free time video editor.
