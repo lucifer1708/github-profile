@@ -22,12 +22,15 @@ I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="MyPET"  alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim"  alt="Vim" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" title="azure"  alt="azure" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
