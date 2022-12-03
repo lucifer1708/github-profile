@@ -22,7 +22,7 @@ I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django" alt="Django" width="60" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
