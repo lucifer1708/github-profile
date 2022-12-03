@@ -30,7 +30,7 @@ I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="MyPET"  alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim"  alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" title="azure"  alt="azure" width="60" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" title="azure"  alt="azure" width="80" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
