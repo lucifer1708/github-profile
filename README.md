@@ -43,5 +43,5 @@ I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h4 align="center">Streak and Contribution :fire:</h4>
 
 <p align="center"> <img
-Src="http://github-readme-streak-stats.herokuapp.com?user=dhananjayjindal&theme=tokyonight&date_format=j%20M%5B%20Y%5D)" />
+Src="http://github-readme-streak-stats.herokuapp.com?user=lucifer1708&theme=tokyonight&date_format=j%20M%5B%20Y%5D)" />
 
