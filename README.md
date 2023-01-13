@@ -35,7 +35,7 @@ I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GIT"  alt="GIT" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Lua"  alt="Lua" width="40" height="40"/>&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" title="Lua"  alt="Lua" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" title="docker" alt="docker" width="50" height="40"/>&nbsp;
 </p>
 
