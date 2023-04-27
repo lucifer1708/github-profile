@@ -39,6 +39,7 @@ I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" title="docker" alt="docker" width="50" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" title="Nginx" alt="Nginx" width="80" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" title="Go" alt="GO" width="80" height="40"/>&nbsp;
  
 </p>
 
