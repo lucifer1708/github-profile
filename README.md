@@ -7,6 +7,7 @@
   </a>
 </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Sumit+Dhiman..;I+am+a+Developer...;Take+a+look+at+my+repos+%3A))](https://git.io/typing-svg)
+
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
