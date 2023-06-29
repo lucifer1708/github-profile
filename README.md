@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 <br>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Sumit+Dhiman..;I+am+a+Developer...;Take+a+look+at+my+repos+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73232&center=true&vCenter=true&width=435&lines=I+am+Sumit+Dhiman..;I+am+a+Developer...;Take+a+look+at+my+repos+%3A)" alt="Typing SVG" /></a>
 </p>
 ![](https://komarev.com/ghpvc/?username=lucifer1708&style=for-the-badge) 
 
