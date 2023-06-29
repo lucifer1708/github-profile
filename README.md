@@ -5,10 +5,6 @@
  <a href="https://www.youtube.com/channel/UC4yVl3jc6dwaxM_0-wzJ68Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-<br>
-<br>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F73232&center=true&vCenter=true&width=435&lines=I+am+Sumit+Dhiman..;I+am+a+Developer...;)" alt="Typing SVG" /></a>
 </p>
 
 
