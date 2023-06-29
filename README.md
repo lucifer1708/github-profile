@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F73232&center=true&vCenter=true&width=435&lines=I+am+Sumit+Dhiman..;I+am+a+Developer...;Take+a+look+at+my+repos+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F73232&center=true&vCenter=true&width=435&lines=I+am+Sumit+Dhiman..;I+am+a+Developer...;)" alt="Typing SVG" /></a>
 </p>
 
 
